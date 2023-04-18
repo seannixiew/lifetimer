@@ -1,0 +1,95 @@
+  @font-face{
+    font-family: "hefeng";
+    src:url("../fonts/HeFengShuDaoZhaoHeFeiLongTi-Shan\(GEETYPE-FeilongGBT-Flash\)-2.ttf");
+  }
+
+  #body{
+    background-size:cover; 
+     } 
+  /* #middle:hover{
+        opacity: 0.3;
+  }   */
+  /* #d0:hover,#rightDown:hover{
+        color:snow;
+  } */
+  #dx{
+    position: fixed;
+    top:400px;
+    left:500px;
+    text-align: center;
+    font-size: 80px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #s3{
+    position: fixed;
+    top:400px;
+    left:1420px;
+    font-size: 80px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #canvas0,#font0{
+    position:fixed;
+    right:10px;
+    top:45px;
+  }
+  #d0{
+    position:fixed;
+    right:55px;
+    top:25px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #canvas1,#font1{
+    position:fixed;
+    right:10px;
+    bottom:110px;
+  }
+  #d1{
+    position:fixed;
+    right:94px;
+    bottom:90px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #s4{
+    position:fixed;
+    right:69px;
+    bottom:90px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #s5{
+    position:fixed;
+    right:50px;
+    bottom:90px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #s6{
+    position:fixed;
+    right:30px;
+    bottom:90px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #s7{
+    position:fixed;
+    right:10px;
+    bottom:90px;
+    font-family:"hefeng";
+    user-select: none;
+  }
+  #canvas2,#font2{
+    position: fixed;
+    left:45%;
+    top:45px;
+  }
+  #d2{
+    position:fixed;
+    top:25px;
+    left: 45%;
+    font-family:"hefeng";
+    user-select: none;
+  }
